@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Layouts from "../components/Layout";
+import Layouts from "@/components/Layout";
 
 export default function About() {
   return (
